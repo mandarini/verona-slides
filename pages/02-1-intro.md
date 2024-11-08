@@ -2,11 +2,11 @@
 layout: two-cols
 ---
 
-# Hello, I'm Katerina! 👋
+# Hello, I'm Katerina! 💅
 
 <div class="mt-8 space-y-4">
   <div v-click class="flex items-center gap-2">
-    <span class="text-xl">👩‍💻</span> Product Advocate + Engineer at Nx
+    <span class="text-xl">👩‍💻</span> Product Advocate + Engineer at Nx - nx.dev
   </div>
   
   <div v-click class="flex items-center gap-2">
@@ -35,9 +35,7 @@ layout: two-cols
   <div v-click class="mt-8 text-sm text-gray-500">
     <div>Find me at:</div>
     <div class="ml-4">
-      🐦 @psybercity<br/>
-      🌐 @psyber.city<br/>
-      💻 psyber.city
+      🐦 @psybercity - 🦋 @psyber.city - 💻 psyber.city
     </div>
   </div>
 </div>
@@ -51,8 +49,4 @@ layout: two-cols
       alt="Me on Olympus" 
     />
   </div>
-</div>
-
-<div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
-  @psybercity - @psyber.city - @nx.dev - @NxDevTools - Katerina Skroumpelou - AngularDay2024
 </div>

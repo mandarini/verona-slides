@@ -1,25 +1,13 @@
 ---
-layout: center
-class: text-center
+layout: default
 ---
 
-# Let's Nxify Your Angular App!
+# Some credit
 
-<div class="mt-8 text-xl">
- 
-</div>
+* I created this slides using [Sli.dev](https://github.com/slidevjs/slidev), [antfu](https://antfu.me/)'s code slides tool
+* I shamelessly used [bolt.new](https://bolt.new/) to do so - and it was a-ma-zing
 
-<div v-click class="mt-12">
-  <h2 class="text-2xl font-bold text-primary">Try Nx Cloud Today!</h2>
-  <div class="mt-4">
-    <img
-      src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://nx.app"
-      class="mx-auto"
-      alt="Nx Cloud QR Code"
-    />
-  </div>
-</div>
 
-<div v-click class="mt-12 text-xl text-gray-500">
-  Questions? Let's chat!
+<div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
+  @psybercity - @NxDevTools - 🦋 @psyber.city - 🦋 @nx.dev - Katerina Skroumpelou - AngularDay2024
 </div>

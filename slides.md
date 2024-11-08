@@ -29,6 +29,10 @@ src: ./pages/03-seamless.md
 ---
 
 ---
+src: ./pages/03-1-cats.md
+---
+
+---
 src: ./pages/04-features.md
 ---
 
@@ -50,6 +54,10 @@ src: ./pages/08-slide.md
 
 ---
 src: ./pages/09-slide.md
+---
+
+---
+src: ./pages/09-1-cats.md
 ---
 
 ---
@@ -77,6 +85,10 @@ src: ./pages/14-slide.md
 ---
 
 ---
+src: ./pages/14-1-cats.md
+---
+
+---
 src: ./pages/15-slide.md
 ---
 
@@ -85,5 +97,13 @@ src: ./pages/16-slide.md
 ---
 
 ---
+src: ./pages/16-1-slide.md
+---
+
+---
 src: ./pages/17-slide.md
+---
+
+---
+src: ./pages/18-slide.md
 ---
