@@ -21,21 +21,19 @@ layout: default
         <li>Troubleshoot CI issues</li>
       </ul>
     </div>
-    <div v-click class="border dark:border-gray-700 rounded-lg p-4">
-      <div class="text-center mb-4 font-bold">Project Graph Example</div>
-      <div class="mermaid">
-        graph TD
-          A[Project A] --> B[Project B]
-          A --> C[Project C]
-          B --> D[Project D]
-          style A fill:#ff7070
-          style B fill:#ffe070
-          style C fill:#ffe070
+  <div v-click class="flex-1 ml-8">
+    <div class="border dark:border-gray-700 rounded-lg p-4">
+      <div class="text-center mb-4 font-bold">Affected Project Graph</div>
+      <div class="w-full h-64 bg-gray-100 dark:bg-gray-800 rounded flex items-center justify-center">
+        <img 
+        src="../images/affected-project-graph.png" 
+        alt="Affected Project Graph" 
+        />
       </div>
-      <div class="text-sm text-center mt-4">
-        <span class="text-red-500">■</span> Changed Project
-        <span class="ml-4 text-yellow-500">■</span> Affected Project
+      <div class="text-sm text-center mt-4 text-gray-500">
+        Blue nodes indicate affected projects
       </div>
     </div>
+  </div>
   </div>
 </div>

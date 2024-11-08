@@ -26,7 +26,10 @@ layout: default
     <div class="border dark:border-gray-700 rounded-lg p-4">
       <div class="text-center mb-4 font-bold">Dependency Graph Example</div>
       <div class="w-full h-64 bg-gray-100 dark:bg-gray-800 rounded flex items-center justify-center">
-        [Dependency Graph Visualization]
+      <img 
+      src="../images/dependency-graph.png" 
+      alt="Dependency Graph Example" 
+      />
       </div>
       <div class="text-sm text-center mt-4 text-gray-500">
         Blue nodes indicate affected projects

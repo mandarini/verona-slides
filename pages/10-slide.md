@@ -30,7 +30,6 @@ layout: default
           <div v-for="n in 4" :key="`orig-${n}`" class="test-block">
             src/e2e/app{{ n }}.cy.ts
           </div>
-          
           <div class="text-sm font-mono opacity-50 my-6">Atomizer Split:</div>
           <div v-for="n in 4" :key="`split-${n}`" class="test-block split" :style="{ animationDelay: `${n * 0.2}s` }">
             e2e-ci--src/e2e/app{{ n }}.cy.ts

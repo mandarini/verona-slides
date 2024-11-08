@@ -1,6 +1,6 @@
 ---
 theme: default
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://wallpapers.com/images/hd/sea-background-rnnjhlgcx3k52o19.jpg
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -9,6 +9,7 @@ drawings:
 transition: slide-left
 title: Nxify your Angular App
 mdc: true
+colorSchema: dark
 ---
 
 ---

@@ -22,15 +22,17 @@ layout: two-cols
 
 ::right::
 
-<div v-click class="ml-8 mt-8">
-  <div class="border dark:border-gray-700 rounded-lg p-4">
-    <div class="text-center mb-4 font-bold">Download Flow</div>
-    <div class="mermaid">
-      graph TD
-        A[User] --> B[Download Button]
-        B --> C{Auth Check}
-        C -->|Authorized| D[Download Artifact]
-        C -->|Unauthorized| E[Access Denied]
+  <div v-click class="flex-1 ml-8">
+    <div class="border dark:border-gray-700 rounded-lg p-4">
+      <div class="text-center mb-4 font-bold">Download task artifacts</div>
+      <div class="w-full h-64 bg-gray-100 dark:bg-gray-800 rounded flex items-center justify-center">
+        <img 
+        src="../images/download-task-artifacts.png" 
+        alt="Download task artifacts" 
+        />
+      </div>
+      <div class="text-sm text-center mt-4 text-gray-500">
+        Download logs from current task.
+      </div>
     </div>
   </div>
-</div>
