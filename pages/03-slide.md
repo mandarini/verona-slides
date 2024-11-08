@@ -27,3 +27,7 @@ layout: two-cols
     </ul>
   </div>
 </div>
+
+<div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
+  @psybercity - @NxDevTools - 🦋 @psyber.city - 🦋 @nx.dev - Katerina Skroumpelou - AngularDay2024
+</div>

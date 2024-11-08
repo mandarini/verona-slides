@@ -37,6 +37,10 @@
   </div>
 </div>
 
+<div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
+  @psybercity - @NxDevTools - 🦋 @psyber.city - 🦋 @nx.dev - Katerina Skroumpelou - AngularDay2024
+</div>
+
 <style>
 .feature-card {
   @apply p-4 rounded-lg border border-gray-200 dark:border-gray-700 text-center transition-all duration-200;
@@ -45,3 +49,4 @@
   @apply shadow-lg transform -translate-y-1;
 }
 </style>
+

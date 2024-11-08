@@ -8,7 +8,6 @@ layout: default
   <div v-click class="text-xl mb-8">
     Identify and re-run flaky tasks to ensure build stability.
   </div>
-
   <div class="grid grid-cols-2 gap-8">
     <div v-click class="space-y-6">
       <div class="bg-orange-50 dark:bg-orange-900 p-6 rounded-lg">

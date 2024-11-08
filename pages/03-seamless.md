@@ -6,7 +6,6 @@
   </div>
 
   <div v-click class="bg-blue-50 dark:bg-blue-900 p-4 rounded-lg mb-6">
-    <i class="i-mdi-account-voice" /> Interactive Prompt:
     <div class="font-bold mt-2">Who here is already using Nx?</div>
   </div>
 
@@ -20,4 +19,8 @@
       </ul>
     </div>
   </div>
+</div>
+
+<div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
+  @psybercity - @NxDevTools - 🦋 @psyber.city - 🦋 @nx.dev - Katerina Skroumpelou - AngularDay2024
 </div>

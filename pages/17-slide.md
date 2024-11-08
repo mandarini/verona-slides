@@ -6,7 +6,7 @@ class: text-center
 # Let's Nxify Your Angular App!
 
 <div class="mt-8 text-xl">
-  Recap key points, thank you for your attention!
+ 
 </div>
 
 <div v-click class="mt-12">

@@ -5,10 +5,10 @@ class: 'text-center'
 ---
 
 # Nxify your Angular App
-## How Nx Cloud Makes Angular Development and Deployment Faster and Easier
+## How Nx Cloud Makes Angular Development and Deployment Faster
 
 <div class="pt-12 text-xl">
-  Katerina | Product Advocate at Nx
+  Katerina Skroumpelou | Product Advocate at Nx
 </div>
 
 <div class="abs-br m-6 flex gap-2">
@@ -21,3 +21,4 @@ class: 'text-center'
     <carbon-logo-github />
   </a>
 </div>
+
