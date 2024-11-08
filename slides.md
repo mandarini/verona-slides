@@ -17,6 +17,10 @@ src: ./pages/01-title.md
 ---
 
 ---
+src: ./pages/02-1-intro.md
+---
+
+---
 src: ./pages/02-intro.md
 ---
 
