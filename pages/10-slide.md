@@ -38,11 +38,11 @@ layout: default
       </div>
     </div>
   </div>
-</div>
-
-<div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
+  <div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
   @psybercity - @NxDevTools - 🦋 @psyber.city - 🦋 @nx.dev - Katerina Skroumpelou - AngularDay2024
 </div>
+</div>
+
 <style>
 .test-block {
   @apply p-2 text-sm font-mono rounded;
