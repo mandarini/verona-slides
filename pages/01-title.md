@@ -6,7 +6,7 @@ How Nx Cloud Makes Angular Development and Deployment Faster
 
 <div class="mt-12">
   <div class="text-lg">
-    Presented by: <span class="font-bold">Katerina Skroumpelou</span>
+ <span class="font-bold">Katerina Skroumpelou</span>
   </div>
   <div class="text-gray-400">
     Product Advocate at Nx
@@ -38,3 +38,8 @@ How Nx Cloud Makes Angular Development and Deployment Faster
     <div class="text-4xl font-bold">=</div>
   <div class="text-4xl">❤️⚡️</div>
 </div>
+
+<br>
+<br>
+
+### slides: ngday24-nx.netlify.app

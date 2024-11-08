@@ -19,10 +19,6 @@ class: text-center
   </div>
 </div>
 
-<div class="mt-8 text-lg text-gray-500">
-  Scan to access the feedback form
-</div>
-
 <div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
   @psybercity - @psyber.city - @nx.dev - @NxDevTools - Katerina Skroumpelou - AngularDay2024
 </div>

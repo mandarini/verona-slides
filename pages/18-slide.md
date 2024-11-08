@@ -30,14 +30,14 @@ layout: two-cols
   </div>
   
   <div v-click class="link-item">
-       <a href="https://x.com/psybercity" target="_blank" class="flex items-center gap-2">
-    <span class="text-xl">🐦</span> @psybercity
+       <a href="https://psyber.city" target="_blank" class="flex items-center gap-2">
+    <span class="text-xl">🐦</span> psyber.city
   </a>
   </div>
   
   <div v-click class="link-item">
-       <a href="https://psyber.city" target="_blank" class="flex items-center gap-2">
-    <span class="text-xl">🌐</span> psyber.city
+       <a href="https://ngday24-nx.netlify.app/26?clicks=2" target="_blank" class="flex items-center gap-2">
+    <span class="text-xl">📽️</span> ngday24-nx.netlify.app
   </a>
   </div>
 </div>
