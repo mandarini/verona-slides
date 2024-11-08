@@ -6,7 +6,7 @@ layout: default
 
 <div class="mt-8">
   <div v-click class="text-xl mb-8">
-    How it helps visualize project relationships and troubleshoot CI issues.
+    Helps visualize project relationships and troubleshoot CI issues.
   </div>
 
   <div class="grid grid-cols-2 gap-8">
@@ -38,6 +38,3 @@ layout: default
   </div>
 </div>
 
-<div class="absolute bottom-4 left-0 right-0 text-gray-400 text-sm text-center">
-  @psybercity - @NxDevTools - 🦋 @psyber.city - 🦋 @nx.dev - Katerina Skroumpelou - AngularDay2024
-</div>

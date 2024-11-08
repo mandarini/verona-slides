@@ -2,11 +2,11 @@
 layout: two-cols
 ---
 
-# Download Task Artifacts
+# New features
 
 <div class="mt-8 pr-8">
   <div v-click class="text-xl mb-8">
-    Problem and solution, including access restrictions.
+  nxCloudId for better access control
   </div>
 
   <div v-click class="bg-blue-50 dark:bg-blue-900 p-6 rounded-lg mt-8">
