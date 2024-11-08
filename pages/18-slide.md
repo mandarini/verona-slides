@@ -36,10 +36,17 @@ layout: two-cols
   </div>
   
   <div v-click class="link-item">
-       <a href="https://ngday24-nx.netlify.app/26?clicks=2" target="_blank" class="flex items-center gap-2">
-    <span class="text-xl">📽️</span> ngday24-nx.netlify.app
+     <a href="https://ngday24-nx.netlify.app" target="_blank" class="flex items-center gap-2">
+    <span class="text-xl">Slides 📽️: </span>ngday24-nx.netlify.app
   </a>
   </div>
+  
+   <div v-click class="link-item">
+     <a href="https://github.com/mandarini/demo-ng-day-24" target="_blank" class="flex items-center gap-2">
+    <span class="text-xl">Demo 🦾: </span>github.com/mandarini/demo-ng-day-24
+  </a>
+  </div>
+
 </div>
 
 ::right::
